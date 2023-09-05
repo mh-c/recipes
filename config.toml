@@ -1,8 +1,9 @@
 baseURL = "https://recipesbook.netlify.com/"
 languageCode = "en-us"
-title = "Jason's Recipe Book"
+title = "Rivendell Cookbook"
 theme = "recipes"
 
 [params]
   author = "Jason Rametta"
-  description = "Jason's Recipe Book"
+  description = "Rivendell Cookbook"
+
