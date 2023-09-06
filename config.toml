@@ -1,9 +1,8 @@
-baseURL = "https://recipesbook.netlify.com/"
+baseURL = "https://gregarious-marzipan-158493.netlify.app/"
 languageCode = "en-us"
 title = "Rivendell Cookbook"
 theme = "recipes"
 
 [params]
-  author = "Jason Rametta"
+  author = "mh-c"
   description = "Rivendell Cookbook"
-
