@@ -1,12 +1,12 @@
 ---
 title: "菜名"
-description: "无，不用填"
-summary: "总览"
+description: "单独页面的介绍"
+summary: "简介"
 date: 2019-11-13T08:11:45+08:00
 draft: true
 time: "30m"
 tags: ["标签A", "标签B"]
-featured_image: "/general-tsos-tofu.jpg"
+featured_image: "/images/general-tsos-tofu.jpg"
 ---
 
 ## 食材
