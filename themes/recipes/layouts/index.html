@@ -2,7 +2,7 @@
 <section class="section">
   <div class="container">
     <div class="column is-centered" style="font-size: xx-large">
-      <span style="color: green;">10</span> DAY SINCE LAST COOKING ACCIDENT.
+      <span style="color: green;" id="countdown">10</span> DAY SINCE LAST COOKING ACCIDENT ON <span style="color: red" id="lastAccidentDate"></span>.
     </div>
     <div class="columns is-centered">
       <div class="column">
@@ -37,4 +37,11 @@
     </div>
   </div>
 </section>
+
+<script>
+var lastAccidentDate = new Date("2023-09-15");
+var distance = Math.floor((new Date().getTime() - lastAccidentDate.getTime()) / (1000 * 60 * 60 * 24));
+document.getElementById("countdown").innerHTML = distance;
+document.getElementById("lastAccidentDate").innerHTML = lastAccidentDate.toDateString();
+</script>
 {{ end }}
