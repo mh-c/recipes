@@ -6,7 +6,7 @@ date: 2023-10-01T00:00:00+08:00
 draft: true
 time: "30m"
 tags: ["标签A", "标签B"]
-featured_image: "/images/general-tsos-tofu.jpg"
+featured_image: "/rivendell/images/general-tsos-tofu.jpg"
 ---
 
 ## 食材
