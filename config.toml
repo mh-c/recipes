@@ -1,4 +1,4 @@
-baseURL = "https://rivendell.homes/"
+baseURL = "https://mh-c.github.io/rivendell/"
 languageCode = "en-us"
 title = "Rivendell Cookbook"
 theme = "recipes"
